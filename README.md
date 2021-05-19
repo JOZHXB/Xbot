@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm JoshXB
 <p align="center">
-<p align='center'><a href="https://instagram.com/ajoshjosephen"><img height="200" src="https://github.com/JoshXB/JoshXB/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/jozhxb"><img height="200" src="https://github.com/JoshXB/JoshXB/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 </p>
 <br>
 
